@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/PuzzleMaster/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/PuzzleMaster/static/js/main.4c2ac4fb.chunk.js",
-    "main.js.map": "/PuzzleMaster/static/js/main.4c2ac4fb.chunk.js.map",
-    "runtime-main.js": "/PuzzleMaster/static/js/runtime-main.f74b328b.js",
-    "runtime-main.js.map": "/PuzzleMaster/static/js/runtime-main.f74b328b.js.map",
-    "static/js/2.27662dd7.chunk.js": "/PuzzleMaster/static/js/2.27662dd7.chunk.js",
-    "static/js/2.27662dd7.chunk.js.map": "/PuzzleMaster/static/js/2.27662dd7.chunk.js.map",
-    "static/js/3.5ca69d8e.chunk.js": "/PuzzleMaster/static/js/3.5ca69d8e.chunk.js",
-    "static/js/3.5ca69d8e.chunk.js.map": "/PuzzleMaster/static/js/3.5ca69d8e.chunk.js.map",
+    "main.css": "/PuzzleMaster/static/css/main.7333b382.chunk.css",
+    "main.js": "/PuzzleMaster/static/js/main.59684ce6.chunk.js",
+    "main.js.map": "/PuzzleMaster/static/js/main.59684ce6.chunk.js.map",
+    "runtime-main.js": "/PuzzleMaster/static/js/runtime-main.beb720e8.js",
+    "runtime-main.js.map": "/PuzzleMaster/static/js/runtime-main.beb720e8.js.map",
+    "static/js/2.f195e7dd.chunk.js": "/PuzzleMaster/static/js/2.f195e7dd.chunk.js",
+    "static/js/2.f195e7dd.chunk.js.map": "/PuzzleMaster/static/js/2.f195e7dd.chunk.js.map",
+    "static/js/3.cd60f16b.chunk.js": "/PuzzleMaster/static/js/3.cd60f16b.chunk.js",
+    "static/js/3.cd60f16b.chunk.js.map": "/PuzzleMaster/static/js/3.cd60f16b.chunk.js.map",
     "index.html": "/PuzzleMaster/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/PuzzleMaster/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.27662dd7.chunk.js.LICENSE.txt": "/PuzzleMaster/static/js/2.27662dd7.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/PuzzleMaster/static/media/logo.103b5fa1.svg",
-    "static/media/megasouag.5dfb1014.jpg": "/PuzzleMaster/static/media/megasouag.5dfb1014.jpg"
+    "static/css/main.7333b382.chunk.css.map": "/PuzzleMaster/static/css/main.7333b382.chunk.css.map",
+    "static/js/2.f195e7dd.chunk.js.LICENSE.txt": "/PuzzleMaster/static/js/2.f195e7dd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/PuzzleMaster/static/media/ProximaNova-Regular.ea03f826.otf",
+    "static/media/boost.cca0bd0c.svg": "/PuzzleMaster/static/media/boost.cca0bd0c.svg",
+    "static/media/like.c01eae3b.svg": "/PuzzleMaster/static/media/like.c01eae3b.svg",
+    "static/media/nope.ebe21856.svg": "/PuzzleMaster/static/media/nope.ebe21856.svg",
+    "static/media/rewind.b1d00f37.svg": "/PuzzleMaster/static/media/rewind.b1d00f37.svg",
+    "static/media/super like.ff61833b.svg": "/PuzzleMaster/static/media/super like.ff61833b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f74b328b.js",
-    "static/js/2.27662dd7.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.4c2ac4fb.chunk.js"
+    "static/js/runtime-main.beb720e8.js",
+    "static/js/2.f195e7dd.chunk.js",
+    "static/css/main.7333b382.chunk.css",
+    "static/js/main.59684ce6.chunk.js"
   ]
 }
